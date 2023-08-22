@@ -1,3 +1,9 @@
+# THIS PROJECT WAS DEPLOYED USING FIREBASE
+
+Visit [Netflix-Clone](https://neflix-react-clone.web.app/) to use this awesome website 
+
+## For DEVELOPERS, OTHER INFORMATIONS ARE STATED BELOW
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -58,6 +64,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
 ### Advanced Configuration
+
+# THANK YOU
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
