@@ -1,6 +1,6 @@
 # THIS PROJECT WAS DEPLOYED USING FIREBASE
 
-Visit [Netflix-Clone](https://neflix-react-clone.web.app/) to use this awesome website 
+Visit [Movie Recommendation Website - Inspired by Netflix](https://neflix-react-clone.web.app/) to use this awesome website 
 
 ## For DEVELOPERS, OTHER INFORMATIONS ARE STATED BELOW
 
